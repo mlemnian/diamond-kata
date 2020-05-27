@@ -1,3 +1,5 @@
+![Java CI with Maven](https://github.com/mlemnian/diamond-kata/workflows/Java%20CI%20with%20Maven/badge.svg)
+
 # About this Kata
 
 [Alistair Cockburn wrote a blog post](https://alistair.cockburn.us/coming-soon/) about this kata, in response to the [Seb Rose kata proposition](http://claysnow.co.uk/recycling-tests-in-tdd/).
